@@ -14,7 +14,7 @@ print(type(Nombre))
 
 Promedio = 8.5
 print (Promedio) 
-print(type(Promedio)) #esto es un comentario
+print(type(Promedio)) #esto es un comentario hola
 
 """
 un comentario largrrfoofofof
