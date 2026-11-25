@@ -31,7 +31,7 @@ class Lista_tour:
     def cargar_datos(self):
         lista = [
             Tour(1, "Centro histórico", 15.00, 20),
-            Tour(2, "El cajas", 35.50, 12)
+            Tour(2, "El cajas ", 35.50, 12)
         ]
         for f in lista:
             self.lista_tour.append(f)
