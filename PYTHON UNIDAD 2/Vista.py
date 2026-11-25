@@ -27,7 +27,7 @@ class Vista_tour:
             print(tour)
 
     def mostrar_salir(self):
-        print("chao")
+        print("chao.")
 
     def mostrar_invalido(self):
         print("dato invalido")
