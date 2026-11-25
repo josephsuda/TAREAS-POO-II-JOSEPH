@@ -49,7 +49,7 @@ class Lista_tour:
     def vender_tour(self, codigo: int, cantidad: int):
         tour = self.buscar_tour(codigo)
         if tour is None:
-            print("Error: no existe ese código")
+            print("Error: no existe ese código.")
             return False
         return tour.reservar(cantidad)
 
